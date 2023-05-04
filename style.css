@@ -20,3 +20,9 @@
 .cabeçalholista {
     justify-content: center;
 }
+
+.o-que-são {
+    background-image: linear-gradient(black, black );
+    color: white;
+    
+}
